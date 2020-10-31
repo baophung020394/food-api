@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://baophung:Thuthuy!1994@bookingfood.nem68.mongodb.net/bookingfood?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
